@@ -1,4 +1,4 @@
-Python Project for Data Science - IBM Course
+## Python Project for Data Science - IBM Course
 This repository contains the code and notebooks for the Python Data Science course from IBM. The project demonstrates data analysis, financial data collection, web scraping, and visualization techniques.
 
 Project Description
